@@ -1,3 +1,3 @@
 # Java-project
-This is my second repository.<br>
+This is my second Git Repository.<br>
 Author - Sifat Zaman
